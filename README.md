@@ -1,11 +1,12 @@
 # getting-started
 Hi! Here's the first step for you to get started on learning Python! First, you'll need to do is get started on setting up the software on your laptop in order to learn Python!
 
-## Setting up Git
-Depending on if your computer runs on Windows or Mac, you will have to install Git in order to make changes to the repositories on GitHub. 
 
 ## Set up your GitHub account
 Go to this website and set up your account here https://github.com/
+
+## Setting up Git
+Depending on if your computer runs on Windows or Mac, you will have to install Git in order to make changes to the repositories on GitHub. 
 
 ### If you have a Mac
 Follow these instructions here: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
